@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://nassim-production.github.io/csb-nzfsvf/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://nassim-production.github.io/csb-nzfsvf/static/js/main.a2061327.chunk.js",
+    "main.js.map": "https://nassim-production.github.io/csb-nzfsvf/static/js/main.a2061327.chunk.js.map",
+    "runtime-main.js": "https://nassim-production.github.io/csb-nzfsvf/static/js/runtime-main.8ab90135.js",
+    "runtime-main.js.map": "https://nassim-production.github.io/csb-nzfsvf/static/js/runtime-main.8ab90135.js.map",
+    "static/js/2.c3de1a98.chunk.js": "https://nassim-production.github.io/csb-nzfsvf/static/js/2.c3de1a98.chunk.js",
+    "static/js/2.c3de1a98.chunk.js.map": "https://nassim-production.github.io/csb-nzfsvf/static/js/2.c3de1a98.chunk.js.map",
+    "index.html": "https://nassim-production.github.io/csb-nzfsvf/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://nassim-production.github.io/csb-nzfsvf/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.c3de1a98.chunk.js.LICENSE.txt": "https://nassim-production.github.io/csb-nzfsvf/static/js/2.c3de1a98.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8ab90135.js",
+    "static/js/2.c3de1a98.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.a2061327.chunk.js"
+  ]
+}
